@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-summernote/commit/8b17863d44ad1a588ea46d79203461275456e654",
       "git:hexsha": "8b17863d44ad1a588ea46d79203461275456e654",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
