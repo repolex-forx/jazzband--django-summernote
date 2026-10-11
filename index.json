@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-summernote",
+  "versions": [
+    {
+      "commit": "8b17863d44ad1a588ea46d79203461275456e654",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:36:43.962939+00:00"
+    }
+  ]
+}
